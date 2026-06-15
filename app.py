@@ -125,7 +125,7 @@ question_chain = (
 # ---------------------------------------------------
 # UI
 # ---------------------------------------------------
-st.title("📄 AI Tutor")
+st.title("📄 AI Tutor Agent")
 st.write(
     "Generate personalized question papers "
     "and assess student answers."
