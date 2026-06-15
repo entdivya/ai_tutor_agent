@@ -24,7 +24,7 @@ from asses import (
 # Must be the first Streamlit command
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="AI Tutor",
+    page_title="AI Tutor Agent",
     page_icon="📄",
     layout="wide"
 )
