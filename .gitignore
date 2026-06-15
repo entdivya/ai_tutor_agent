@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+3030_Module03_Demonstration01_v1.0.docx
